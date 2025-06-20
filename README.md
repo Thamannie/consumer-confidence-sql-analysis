@@ -115,7 +115,7 @@ Recovery patterns varied — Adidas and McDonald's had stronger rebounds early, 
 Despite the severe hit in March, no brand experienced another major loss over the next 3 months.
 - Overall Observation:
 The chart clearly highlights the V-shaped recovery pattern for several brands.
-The resilience of these global consumer brands suggests strong brand loyalty and investor confidence even in times of economic stress.
+The resilience of these global consumer brands suggests strong brand loyalty and investor confidence even in times of economic stress. ![covid_recovery_trend](output/visuals/covid_recovery_trend.png)
 
 ### Question 7: Which brand had the most consistent performance during the holiday season (Nov–Dec)?
 To determine consistency, you calculated the standard deviation of the monthly percentage change (monthly_pct_change) during November and December (holiday season) for each brand.
