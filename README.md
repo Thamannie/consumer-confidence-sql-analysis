@@ -31,7 +31,7 @@ McDonald’s (MCD)
 - The Data Shows that:
 Brands like MCD and KO generally had more stable month-to-month changes, suggesting steady investor confidence.
 Brands such as NKE and ADDYY showed more volatility, likely due to external factors like fashion trends, supply chain issues, or economic cycles.
-Specific months (e.g., pandemic onset in March 2020, inflation spikes in 2022) show notable drops or surges in multiple brands — indicating systemic market events affecting consumer sentiment.
+Specific months (e.g., pandemic onset in March 2020, inflation spikes in 2022) show notable drops or surges in multiple brands — indicating systemic market events affecting consumer sentiment. ![monthly_pct_change](output/vusuals/monthly_pct_change_by_brand.png)
 
 ### Question 2: Which brand had the highest average monthly return over the 5-year period (2020–2024)?
 - ***Method:***
@@ -97,7 +97,7 @@ Adidas (ADDYY) and Nike (NKE) had the most dramatic swings — with ADDYY’s -4
 Several brands like KO and PEP experienced both steep losses and partial rebounds within the same month — underscoring extreme volatility.
 McDonald’s (MCD) bounced back quickly in April 2020, showing signs of early consumer recovery.
 - Visualization:
-The extreme gain/loss events were plotted in a grouped bar chart, with each bar labeled by month, making it easy to spot brand-specific crises or recovery surges.
+The extreme gain/loss events were plotted in a grouped bar chart, with each bar labeled by month, making it easy to spot brand-specific crises or recovery surges. ![extreme_monthly_changes](output/visuals/extreme_monthly_changes.png)
 
 ### Question 6 : COVID-19 Shock Impact (March–June 2020)
 - Analysis Approach:
@@ -165,7 +165,7 @@ Adidas (ADDYY) was the most volatile brand during the same period, meaning its r
 KO is the most actively and consistently traded brand over time.
 NKE shows a sharp upward trend, indicating growing investor interest.
 PEP and MCD show moderate activity with stable investor engagement.
-ADDYY has niche trading behavior, suggesting it’s less liquid or traded in different markets.
+ADDYY has niche trading behavior, suggesting it’s less liquid or traded in different markets. ![trading_volume](output/visuals/trading_volume_trend.png)
  
 ### Question 9 - Performance Summary During High Inflation (2022)
 In 2022, amidst global inflationary pressure, Coca-Cola (KO) demonstrated the strongest performance in terms of trading activity, recording a total trading volume of over 4 billion shares — more than double that of any other brand in the comparison.
