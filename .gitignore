@@ -1,0 +1,25 @@
+# 🐍 Python virtual environment
+venv/
+
+# 📦 Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 🔐 Environment variable files
+.env
+
+# 📊 Data files
+*.csv
+*.xlsx
+*.tsv
+*.gz
+
+# 💾 Jupyter Notebook checkpoints 
+.ipynb_checkpoints/
+
+# 🖥️ macOS system file
+.DS_Store
+
+# 🛠 VS Code settings 
+.vscode/
