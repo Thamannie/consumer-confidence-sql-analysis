@@ -31,7 +31,7 @@ McDonald’s (MCD)
 - The Data Shows that:
 Brands like MCD and KO generally had more stable month-to-month changes, suggesting steady investor confidence.
 Brands such as NKE and ADDYY showed more volatility, likely due to external factors like fashion trends, supply chain issues, or economic cycles.
-Specific months (e.g., pandemic onset in March 2020, inflation spikes in 2022) show notable drops or surges in multiple brands — indicating systemic market events affecting consumer sentiment. ![monthly_pct_change](output/vusuals/monthly_pct_change_by_brand.png)
+Specific months (e.g., pandemic onset in March 2020, inflation spikes in 2022) show notable drops or surges in multiple brands — indicating systemic market events affecting consumer sentiment. ![monthly_pct_change](output/visuals/monthly_pct_change_by_brand.png)
 
 ### Question 2: Which brand had the highest average monthly return over the 5-year period (2020–2024)?
 - ***Method:***
